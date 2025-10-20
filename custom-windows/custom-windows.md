@@ -37,4 +37,6 @@ Next install AnyBurn and download your source iso to your VM.
 
 Then run the program and select "Edit Image". Navigate to your source iso.
 
+Remove the current `install.wim` inside the `sources` folder and then add your new `install.wim` from the "DATA" drive.
 
+Continue on to name your new ISO and then select create.
